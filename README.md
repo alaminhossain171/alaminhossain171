@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Al Amin</h1>
-<h3 align="center">A passionate Full stack developer from Bangladesh.</h3>
+<h3 align="center">A passionate React developer from Bangladesh.</h3>
 
 <h5 align="center">I have completed my B.Sc. in CSE degree from Daffodil International University.  I'm Hard worker and passionate about learning new technologies.</h5>
 
