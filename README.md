@@ -5,7 +5,7 @@
 
 - 🔥 I’m currently working on **ReactJS** Projects
 
-- 🌱 I’m currently learning **ReactJS, Redux**
+- 🌱 I’m currently learning advanced **ReactJS**
 
 - 💬 Ask me about **Javascript & ReactJs**
 
