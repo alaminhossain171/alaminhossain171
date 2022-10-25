@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Al Amin</h1>
-<h3 align="center">A passionate React developer from Bangladesh.</h3>
+<h3 align="center">A passionate Software developer from Bangladesh.</h3>
 
 <h5 align="center">Software Developer from Bangladesh.  I'm Hard worker and passionate about learning new technologies.</h5>
 
 - 🔥 I’m currently working on **React & React-Native** Projects
 
-- 🌱 I’m currently learning advanced **React & React Native**
+- 🌱 I’m currently learning advanced **Nodejs and MongoDB**
 
-- 💬 Ask me about **Javascript & ReactJs**
+- 💬 Ask me about **Javascript, Reactjs, ReactNative**
 
 - 📫 How to reach me **alamin.cse.171@gmail.com**
 
