@@ -5,7 +5,7 @@
 
 - 🔥 I’m currently working on **React & React-Native** Projects
 
-- 🌱 I’m currently learning advanced **Nodejs and MongoDB**
+- 🌱 I’m currently learning  **Nodejs and MongoDB**
 
 - 💬 Ask me about **Javascript, Reactjs, ReactNative**
 
